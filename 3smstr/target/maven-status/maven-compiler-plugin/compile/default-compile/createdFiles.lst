@@ -1,0 +1,6 @@
+org/enterprise/Enterprise.class
+org/enterprise/MainApp.class
+org/enterprise/DatabaseManager.class
+org/enterprise/Department.class
+org/enterprise/EnterpriseGUI.class
+org/enterprise/Employee.class
